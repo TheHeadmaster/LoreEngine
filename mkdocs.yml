@@ -1,0 +1,5 @@
+pages:
+  - Home: 'index.md'
+  - Effects:
+    - Effects: 'effects/index.md'
+    - Overlays: 'effects/overlays.md'
