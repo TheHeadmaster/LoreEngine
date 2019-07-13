@@ -1,4 +1,3 @@
-Welcome to LoreEngine.
 .. toctree::
    :maxdepth: 2
 
