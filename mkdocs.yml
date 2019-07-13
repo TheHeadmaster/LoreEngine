@@ -4,4 +4,8 @@ nav:
     - Overlays:
         - Overlays: effects/overlays.md
         - TintScreen: effects/overlays/tintscreen.md
-theme: readthedocs
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - csharp
