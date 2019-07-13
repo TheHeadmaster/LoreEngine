@@ -1,7 +1,7 @@
 site_name: Lore Engine Documentation
 nav:
     - Home: index.md
-    - Overlays
+    - Overlays:
         - Overlays: effects/overlays.md
         - TintScreen: effects/overlays/tintscreen.md
 theme: readthedocs
