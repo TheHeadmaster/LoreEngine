@@ -5,8 +5,8 @@ nav:
         - Overlays: effects/overlays.md
         - TintScreen: effects/overlays/tintscreen.md
 theme:
-    name: readthedocs
-    hljs_style: androidstudio
+    name: mkdocs
+    hljs_style: Atelier Dune Dark
     highlightjs: true
     hljs_languages:
         - csharp
