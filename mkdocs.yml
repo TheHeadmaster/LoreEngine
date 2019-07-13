@@ -1,12 +1,12 @@
 site_name: Lore Engine Documentation
 nav:
-- Home: 'index.md'
-- Overlays:
-    - Overlays: 'overlays.md'
-    - TintScreen: 'tintscreen.md'
+    - Home: 'index.md'
+    - Overlays:
+        - Overlays: 'overlays.md'
+        - TintScreen: 'tintscreen.md'
 theme:
     name: mkdocs
-    hljs_style: Atelier Dune Dark
+    hljs_style: 'Atelier Dune Dark'
     highlightjs: true
     hljs_languages:
         - csharp
