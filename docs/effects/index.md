@@ -1,1 +1,0 @@
-Effects make things happen.
