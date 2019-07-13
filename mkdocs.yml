@@ -2,10 +2,10 @@ site_name: Lore Engine Documentation
 nav:
     - Home: 'index.md'
     - Effects:
-        -Effects: '/effects.md'
+        -Effects: 'effects/effects.md'
         -Overlays:
-            - Overlays: 'overlays.md'
-            - TintScreen: 'tintscreen.md'
+            - Overlays: 'effects/overlays/overlays.md'
+            - TintScreen: 'effects/overlays/tintscreen.md'
 theme:
     name: mkdocs
     hljs_style: 'Atelier Dune Dark'
