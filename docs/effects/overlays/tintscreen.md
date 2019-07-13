@@ -1,6 +1,6 @@
 #TintScreen
 ``` csharp
-public static void TintScreen(Color color)
+public static void TintScreen(Color color);
 ```
 
 Tints the screen with a specified color. The effect will persist until another overlay is used.
