@@ -6,7 +6,7 @@ nav:
         - TintScreen: effects/overlays/tintscreen.md
 theme:
     name: readthedocs
-    hljs_style: atelier dune dark
+    hljs_style: androidstudio
     highlightjs: true
     hljs_languages:
         - csharp
